@@ -1,0 +1,12 @@
+C:\Users\Khouloud\source\repos\gestionUser\ORM\bin\Debug\netcoreapp3.1\ORM.deps.json
+C:\Users\Khouloud\source\repos\gestionUser\ORM\bin\Debug\netcoreapp3.1\ORM.dll
+C:\Users\Khouloud\source\repos\gestionUser\ORM\obj\Debug\netcoreapp3.1\ORM.csprojAssemblyReference.cache
+C:\Users\Khouloud\source\repos\gestionUser\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfoInputs.cache
+C:\Users\Khouloud\source\repos\gestionUser\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfo.cs
+C:\Users\Khouloud\source\repos\gestionUser\ORM\bin\Debug\netcoreapp3.1\ORM.pdb
+C:\Users\Khouloud\source\repos\gestionUser\ORM\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\Khouloud\source\repos\gestionUser\ORM\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\Khouloud\source\repos\gestionUser\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CopyComplete
+C:\Users\Khouloud\source\repos\gestionUser\ORM\obj\Debug\netcoreapp3.1\ORM.dll
+C:\Users\Khouloud\source\repos\gestionUser\ORM\obj\Debug\netcoreapp3.1\ORM.pdb
+C:\Users\Khouloud\source\repos\gestionUser\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CoreCompileInputs.cache
